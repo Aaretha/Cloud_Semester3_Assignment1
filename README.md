@@ -4,7 +4,7 @@
 Logining into the AWS Management Console.  
 Going to the S3 service.  
 Clicking on "Create bucket".  
-Entering a unique bucket name and choose the region.  
+Entering a bucket name and choose the region.  
 Keeping the default settings and click "Create bucket".  
 
 ### Step 2: Upload Website Files to the S3 Bucket
